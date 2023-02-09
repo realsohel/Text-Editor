@@ -1,10 +1,6 @@
 # Text-Editor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
 
 ### Text Editor is a text editing app where you can write your text and can perform basic text editing operations.
 
